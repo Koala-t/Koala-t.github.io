@@ -48,3 +48,11 @@ nav {
 	color: gray;
 	text-align: center;
 }
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: #234D20;
+}
