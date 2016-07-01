@@ -21,8 +21,8 @@ nav {
 }
 
 .intro {
-	margin: auto;
-	width: 50%;
+	position: relative;
+	left: 400px;
 }
 
 #photo {
