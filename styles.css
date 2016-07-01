@@ -39,3 +39,12 @@ nav {
 	width: 355px;
 	top: 20px;
 }
+
+#table {
+	margin: auto;
+	width: 50%;
+	background-color: #234D20;
+	font-family: helvetica;
+	color: gray;
+	text-align: center;
+}
