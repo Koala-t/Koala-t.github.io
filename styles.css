@@ -1,0 +1,41 @@
+html {
+	background-color: #C9DF8A;
+}
+
+main {
+	position: relative;
+	padding: 20px;
+	top: 20px;
+	left: 380px;
+	border: 5px solid #234D20;
+	background-color: #77AB59;
+	width: 68%;
+}
+
+nav {
+	position: fixed;
+	margin-top: 20px;
+	margin-right: 10px;
+	padding: 14px;
+	display: inline-block;
+	border: 5px solid #234D20;
+	background-color: #36802D;
+	top: 430px;
+	left: 10px;
+	height: 400px;
+	width: 320px;
+}
+
+.intro {
+	position: relative;
+	left: 400px;
+	width: 500px;
+}
+
+#photo {
+	position: fixed;
+	display: inline;
+	height: 400px;
+	width: 355px;
+	top: 20px;
+}
