@@ -1,8 +1,5 @@
 # Koala-t.github.io
 
-## This is a personal website meant to help me:
-* keep track of coding resources
-* practice basic HTML website design
-* complete an assignment for Dev Bootcamp
+## This a short collection of quality, easy to make recepies:
 
-## But feel free to use it if it is helpful to you!
+This website is mainly meant for practice but please feel free to try out some of the recepies. Theyre all great!
