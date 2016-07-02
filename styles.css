@@ -42,6 +42,7 @@ nav {
 	position: relative;
 	left: 400px;
 	width: 500px;
+	font-weight: bold;
 }
 
 #photo {
