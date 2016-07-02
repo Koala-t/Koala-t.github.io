@@ -49,6 +49,12 @@ nav {
 	text-align: center;
 }
 
+ul, ol {
+	background-color: #C9DF8A;
+	border-radius: 30px;
+	padding-bottom: 5px;
+}
+
 a:link {
 	color: blue;
 }
