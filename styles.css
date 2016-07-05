@@ -47,9 +47,9 @@ nav {
 #photo {
 	position: fixed;
 	display: inline;
-	height: 400px;
-	width: 355px;
-	top: 20px;
+	width: 20%;
+	top: 3%;
+	left: 3%;
 }
 
 #table {
