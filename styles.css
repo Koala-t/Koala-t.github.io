@@ -8,10 +8,9 @@ html {
 	position: fixed;
 	background-image: url(http://cdn.recipes100.com/v/4a202c4c51afd4bb26fb5ecd94850b0d.jpg);
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 100%;
 	top: 0;
 	right: 0;
-	left: 0;
 }
 
 main {
