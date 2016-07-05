@@ -79,6 +79,13 @@ a:visited {
 	color: #234D20;
 }
 
+iframe {
+	position: relative;
+	width: 90%;
+	margin-left: 5%
+}
+
 #blank {
 	height: 800px;
 }
+
