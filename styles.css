@@ -93,3 +93,9 @@ iframe {
 	height: 800px;
 }
 
+@media screen and (max-width: 500px) {
+  html {
+    background-color: hotpink;
+  }
+}
+
