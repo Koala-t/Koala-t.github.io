@@ -94,9 +94,6 @@ iframe {
 }
 
 @media screen and (max-width: 500px) {
-  html {
-    background-color: hotpink;
-  }
   main {
   	width: 150%;
   	position: absolute;
