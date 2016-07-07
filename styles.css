@@ -65,6 +65,10 @@ nav {
 	text-align: center;
 }
 
+table, th, td {
+	border: 2px solid black;
+}
+
 ul, ol {
 	background-color: #C9DF8A;
 	border-radius: 30px;
